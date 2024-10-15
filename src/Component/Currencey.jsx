@@ -22,7 +22,7 @@ const Currencey = () => {
 
     return (
         <>
-        <div className=" w-full h-screen flex flex-wrap justify-center items-center bg-white "
+        <div className=" w-full h-screen flex flex-wrap justify-center items-center bg-gradient-to-t from-blue-700 to-indigo-400/10 "
     
         >
     <form 
